@@ -1,0 +1,2 @@
+# Prediccion_metodo_anticonceptivo
+PREDICCIÓN DE MÉTODO ANTICONCEPTIVO MEDIANTE ÁRBOLES DE DECISIÓN.
